@@ -45,5 +45,5 @@ Swagger::Docs::Config.register_apis({
 })
 ```
 <br />
-2.3. Run command `rake swagger:docs`<br />
-For more information visit: `https://github.com/richhollis/swagger-docs`<br />
+2.3. Run command ```rake swagger:docs```<br />
+For more information visit: https://github.com/richhollis/swagger-docs<br />
