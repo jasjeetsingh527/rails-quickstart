@@ -46,4 +46,5 @@ Swagger::Docs::Config.register_apis({
 ```
 <br />
 2.3. Run command rake swagger:docs<br />
+2.4. visit http://yourwebsite.com/api
 For more information visit: https://github.com/richhollis/swagger-docs<br />
