@@ -1,17 +1,17 @@
 # README
 
-Ruby 2.3.3p222 (2016-11-21 revision 56859) [i386-mingw32]
-Rails 5.1.6
+Ruby 2.3.3p222 (2016-11-21 revision 56859) [i386-mingw32]<br />
+Rails 5.1.6<br />
 
-1. How to Install:
-1.1. Download or Pull project from git.
-1.2. `Bundle install`
-1.3. `rails db:create`
-1.4. `rails s`
+1. How to Install:<br />
+1.1. Download or Pull project from git.<br />
+1.2. `Bundle install`<br />
+1.3. `rails db:create`<br />
+1.4. `rails s`<br />
 
-2. How to config swagger:
-2.1. Go to "\config\initializers"
-2.2. Open "swagger_docs.rb"
+2. How to config swagger:<br />
+2.1. Go to "\config\initializers"<br />
+2.2. Open "swagger_docs.rb"<br />
 
 `
 #\config\initializers
