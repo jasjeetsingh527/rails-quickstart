@@ -12,14 +12,13 @@ Rails 5.1.6<br />
 2. How to config swagger:<br />
 2.1. Go to "\config\initializers"<br />
 2.2. Open "swagger_docs.rb"<br />
-
-`<br />
-#\config\initializers<br />
-class Swagger::Docs::Config<br />
-  def self.base_api_controller<br />
-    ActionController::Base<br />
-  end<br />
-end`<br />
+<br />
+`#\config\initializers`<br />
+`class Swagger::Docs::Config`<br />
+`def self.base_api_controller`<br />
+    `ActionController::Base`<br />
+  `end`<br />
+`end`<br />
 <br />
 `Swagger::Docs::Config.register_apis({<br />
     "1.0" => {<br />
